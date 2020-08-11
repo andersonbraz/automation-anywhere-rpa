@@ -10,7 +10,7 @@ Na Calculadora de ROI, para calcular a economia líquida devido à automação e
 
 - Resumo ROI
 
-- Detalhes de ROI
+- Detalhes de ROI (correto)
 
 - Análise de ROI
 
