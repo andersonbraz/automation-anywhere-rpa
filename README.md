@@ -11,5 +11,12 @@ O **[Automation Anywhere](https://www.automationanywhere.com/br/)** é um desenv
 
 A automação de processos robóticos (RPA) é uma ferramenta de produtividade que permite ao usuário configurar um ou mais scripts (que alguns fornecedores chamam de “bots”) para ativar pressionamentos de tecla específicos de maneira automatizada. O resultado é que os bots podem ser usados ​​para imitar ou emular tarefas selecionadas (etapas de transação) em um negócio geral ou processo de TI. Isso pode incluir a manipulação de dados, a passagem de dados de e para diferentes aplicativos, o disparo de respostas ou a execução de transações. RPA usa uma combinação de interação de interface do usuário e tecnologias de descritor. Os scripts podem ser sobrepostos em um ou mais aplicativos de software.
 
+### Descoberta e Design
+
+- Descoberta e Design são as duas primeiras fases do ciclo de vida.
+
+- Na fase discorery / descoberta temos um conjunto de processos de negócio e devemos identificar o mais adequados a serem automatizados e que também trarão maior benefício.
+
+- Na fase de deseign / desenho é quando criamos um plano para nosso projeto de RPA.
 
 ---
