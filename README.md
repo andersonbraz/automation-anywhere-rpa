@@ -20,3 +20,27 @@ A automação de processos robóticos (RPA) é uma ferramenta de produtividade q
 - Na fase de deseign / desenho é quando criamos um plano para nosso projeto de RPA.
 
 ---
+
+## Identificando Tipos de Automação
+
+---
+
+## Distinguindo RPA da Automação Tradicional
+
+---
+
+## Descobrindo a Plataforma Digital Workforce
+
+---
+
+## Compreendendo a Arquitetura RPA do Automation Anywhere
+
+---
+
+## Delineando o Ciclo de vida RPA
+
+---
+
+## Tipos de Arquitetura de Automação, RPA e Automation Anywhere
+
+---
