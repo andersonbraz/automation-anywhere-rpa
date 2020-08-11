@@ -15,7 +15,7 @@ A automação de processos robóticos (RPA) é uma ferramenta de produtividade q
 
 - Descoberta e Design são as duas primeiras fases do ciclo de vida.
 
-- Na fase discorery / descoberta temos um conjunto de processos de negócio e devemos identificar o mais adequados a serem automatizados e que também trarão maior benefício.
+- Na fase discovery / descoberta temos um conjunto de processos de negócio e devemos identificar o mais adequados a serem automatizados e que também trarão maior benefício.
 
 - Na fase de deseign / desenho é quando criamos um plano para nosso projeto de RPA.
 
