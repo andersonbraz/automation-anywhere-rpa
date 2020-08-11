@@ -10,7 +10,7 @@ Na Calculadora de ROI, para calcular a economia líquida devido à automação e
 
 - Resumo ROI
 
-- Detalhes de ROI (correto)
+- Detalhes de ROI (x)
 
 - Análise de ROI
 
@@ -22,7 +22,7 @@ Quando os funcionários criam novo valor nos negócios, em que isso resulta?
 
 - Agilidade de negócios
 
-- Qualidade melhorada
+- Qualidade melhorada (x)
 
 - Maior satisfação do cliente
 
@@ -38,7 +38,7 @@ Qual desses fatores contribui diretamente para a economia devido à maior satisf
 
 - Metas de redução de resíduos Seis Sigma
 
-- Diminuição nas vendas perdidas
+- Diminuição nas vendas perdidas (x)
 
 ## Pergunta 4
 
@@ -48,7 +48,7 @@ John, um gerente, sente que mais AAE Runtime Clients, ou Bot Runners, precisam s
 
 - Agilidade de negócios
 
-- Horas manuais salvas
+- Horas manuais salvas (x)
 
 - Ganho de produtividade
 
@@ -58,7 +58,7 @@ Qual dessas economias será afetada diretamente devido à redução nas atualiza
 
 - Agilidade de negócios
 
-- Melhor conformidade e governança de dados
+- Melhor conformidade e governança de dados (x)
 
 - Ganho de produtividade
 
@@ -74,7 +74,7 @@ Qual das seguintes verificações principais deve ser concluída antes de inicia
 
 - Delineando as entradas relacionadas à implantação
 
-- Definição de pré-requisitos, planos, fluxos de trabalho e infraestrutura
+- Definição de pré-requisitos, planos, fluxos de trabalho e infraestrutura (x)
 
 
 ## Pergunta 7
@@ -85,7 +85,7 @@ Qual dos seguintes documentos de projeto RPA você precisa usar para manter o st
 
 - Documento de coleta de requisitos
 
-- Documento de Design da Solução
+- Documento de Design da Solução (x)
 
 - Documento de transferência de bot
 

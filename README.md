@@ -56,3 +56,18 @@ A automação de processos robóticos (RPA) é uma ferramenta de produtividade q
 # Semana 3
 
 ---
+
+Processo de 10 etapas:
+
+| Etapas       | Título                                 | Descrição                             |
+| ------------ | -------------------------------------- |-------------------------------------- |
+| Etapa 01     | Instalação de Software                 | None                                  |
+| Etapa 02     | Definir ponto inicial para automação   | None                                  |
+| Etapa 03     | Definir experiência do cliente         | None                                  |
+| Etapa 04     | Criar um densenho prático              | None                                  |
+| Etapa 05     | Gerenciar registros                    | None                                  |
+| Etapa 06     | Determinar plano de monitoramento      | None                                  |
+| Etapa 07     | Definir módulos                        | None                                  |
+| Etapa 08     | Utilizando módulos                     | None                                  |
+| Etapa 09     | Criação de fluxo de trabalho           | None                                  |
+| Etapa 10     | Preparar infraestrutura                | None                                  |
